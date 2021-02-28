@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Finite Integral Calculator</string>
-    <string name="integrand_text">Integral Expression</string>
-    <string name="instruction_text">1. Type the expression and limits.\n2. Click Calculate Button thereafter.\n\n Example: x^3 + 1, x=1 to 2 </string>
-    <string name="calculate">Calculate</string>
-    <string name="about_us">Version: Pre-Release\n<center>Developer: Рахул Кришна</center></string>
-</resources>
